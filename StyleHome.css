@@ -14,7 +14,7 @@ h1, h2, h3, a, p {
 }
 
 .header {
-   	 background-image: url(https://lewagon.github.io/landing-page/images/background.jpg);
+   	 background-image: url(https://github.com/AugustinMarionneau/landin_le_wagon/blob/main/images/background.jpg?raw=true);
    	 background-size: cover;
    	 background-position: center;
    	 padding: 150px 0;
@@ -149,6 +149,10 @@ h1, h2, h3 {
   background: #404042;
   color: white;
   padding: 10px 0px;
+}
+
+.footer p {
+  color: whitesmoke;
 }
 
 .cards {
